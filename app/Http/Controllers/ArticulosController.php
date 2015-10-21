@@ -6,7 +6,7 @@ namespace App\Http\Controllers;
 use App\Http\Requests;
 use App\Http\Requests\CreateArticuloRequest;
 use App\Http\Controllers\Controller;
-use App\Articulos;
+use App\Models\Articulos;
 use Request;
 
 class ArticulosController extends Controller
