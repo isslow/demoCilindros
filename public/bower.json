@@ -1,0 +1,17 @@
+{
+  "name": "cilindros",
+  "description": "demo para paquetes con bower",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "jesus ivan"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~.3.0"
+  }
+}
